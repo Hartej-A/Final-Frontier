@@ -28,6 +28,8 @@ class Mine1{
         if(done==0){
             drill.x=windowWidth/2;
             drill.y=windowHeight/16;
+            crystal.x=windowWidth/2;
+            crystal.y=windowHeight*1.5/16;
         }
         done++;
 
